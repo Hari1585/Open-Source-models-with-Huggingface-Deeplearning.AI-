@@ -6,7 +6,9 @@ NLP Tasks
 3. summarization
 4. Machine Translation
 
- Translation and Summarization
+need to have llm pre-requisites
+
+Translation and Summarization
 Translation: we use no longer Left Behind model 
 
  Sentecnce Embedding / Similarity
